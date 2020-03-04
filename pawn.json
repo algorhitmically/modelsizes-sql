@@ -1,0 +1,10 @@
+{
+	"user": "algorhitmically",
+	"repo": "modelsizes-sql",
+	"dependencies": [
+		"sampctl/samp-stdlib"
+	],
+	"contributors": [
+		"algorhitmically",
+	]
+}
