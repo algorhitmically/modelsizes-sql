@@ -12,6 +12,6 @@ This version contains everything from previous versions.
 
 ## Extra
 
-Thanks Y-Less for releasing the old one.
-Thanks Pottus, Chris420, and Slice for ColAndreas (making this possible).
-Thanks Abagail and Crayder for creating modelsizes.
+Thanks Y-Less for releasing the old one.<br />
+Thanks Pottus, Chris420, and Slice for ColAndreas (making this possible).<br />
+Thanks Abagail and Crayder for creating modelsizes.<br />
