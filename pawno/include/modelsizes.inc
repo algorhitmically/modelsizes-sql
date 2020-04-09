@@ -177,9 +177,9 @@ stock GetModelColDimensions(objectmodel, &Float:l, &Float:w, &Float:h)
 	}
 	else
 	{
-		l = 0;
-		w = 0;
-		h = 0;
+		l =
+		w =
+		h = 0.0;
 	}
 	return 0;
 }
